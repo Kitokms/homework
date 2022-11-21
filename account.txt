@@ -1,0 +1,7 @@
+admin account
+name: admin
+password: 12345
+
+user account 
+name: user
+password: 12345
